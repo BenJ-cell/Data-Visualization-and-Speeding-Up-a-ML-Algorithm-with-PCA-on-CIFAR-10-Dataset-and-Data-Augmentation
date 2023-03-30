@@ -6,4 +6,4 @@ Then applying PCA to keep 90% of the explained variance with 99 components and t
 
 It seems that using PCA allows faster computation and better validation accuracy as we are less prone to overfitting deleting the noise induced by the less important components of the PCA.
 
-Then to compare with a good model, we use data augmentation for generalization and a convolutional neural network on the images to classify them.
+Then to compare with a good model, we use data augmentation for generalization and a convolutional neural network on the images to classify them, we get an accuracy of 88%
