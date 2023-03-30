@@ -1,4 +1,4 @@
-# Data-Visualization-and-Speeding-Up-a-ML-Algorithm-with-PCA-on-CIFAR-10-Dataset-and-Data-Augmentation
+# Data-Visualization-and-Speeding-Up-a-ML-Algorithm-with-PCA-on-CIFAR-10-and-CNN+Data-Augmentation
 
 Visualizing the CIFAR - 10 data using PCA keeping the 2 first principal components containing maximum variance.
 
